@@ -19,7 +19,10 @@ I am an Instrumentation sophomore, and I actively explore and learn about ML and
 
 
 [<img src='https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg' alt='github' height='40'>](https://github.com/UdtaPakshi)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akshi-dashottar-73698623a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Akshi_Dashottar/)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg](https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667)' alt='spotify' height='40'>](https://open.spotify.com/user/v1tvo0rmut1jconetulez1etf?si=8057a40ac29545c7)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg](https://camo.githubusercontent.com/5590af9ceea85659676b7434ca55cd3932b2280a884938cf89762d3f81af27b3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f6472656164732e737667)' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/123540721-akshi-dashottar)  
+[<img src='https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akshi-dashottar-73698623a//)  
+[<img src='https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3772786-3146919.png' alt='leetcode' height='40'>](https://leetcode.com/Akshi_Dashottar/)  
+[<img src='https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green-768x231.png' alt='spotify' height='40'>](https://open.spotify.com/user/v1tvo0rmut1jconetulez1etf?si=8057a40ac29545c7)  
+[<img src='https://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Goodreads-icon.png' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/123540721-akshi-dashottar)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdtaPakshi)](https://github.com/anuraghazra/github-readme-stats)
 
