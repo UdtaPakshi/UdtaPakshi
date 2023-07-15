@@ -1,6 +1,6 @@
-### Hi there 👋, Hello World!
+### < Hello World! >
 #### I am Akshi!
-![I am Akshi!](https://drive.google.com/file/d/1ZHuiFTM_pIocAXBFvJEL9BfMEAJWiGPq/view?usp=sharing)
+![I am Akshi!]([https://drive.google.com/file/d/1ZHuiFTM_pIocAXBFvJEL9BfMEAJWiGPq/view?usp=sharing](https://github.com/UdtaPakshi/UdtaPakshi/blob/main/github-header-image1.png))
 
 I am an Instrumentation sophomore, and I actively explore and learn about ML and Data Science. With a background in Arduino-based automation, I enjoy applying my skills to create innovative solutions. Additionally, as an astrophile, I am fascinated by the cosmos. Constantly seeking new opportunities, I strive to delve deeper into the captivating realm of machine learning and data analysis.
 
@@ -18,10 +18,9 @@ Skills: Python/MySQL/C++/C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UdtaPakshi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UdtaPakshi)  
 
 ![GitHub metrics](https://metrics.lecoq.io/UdtaPakshi)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=UdtaPakshi)  
 
-![Profile views](https://gpvc.arturio.dev/UdtaPakshi)  
+
