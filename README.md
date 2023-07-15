@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+HI! I am Akshi.
+
+I am an Instrumentation sophomore, and I actively explore and learn about ML and Data Science. With a background in Arduino-based automation, I enjoy applying my skills to create innovative solutions. Additionally, as an astrophile, I am fascinated by the cosmos. Constantly seeking new opportunities, I strive to delve deeper into the captivating realm of machine learning and data analysis.
+
+[![Akshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UdtaPakshi)](https://github.com/anuraghazra/github-readme-stats)
