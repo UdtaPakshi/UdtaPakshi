@@ -22,7 +22,7 @@ I am an Instrumentation sophomore, and I actively explore and learn about ML and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdtaPakshi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UdtaPakshi&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UdtaPakshi&show_icons=true&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true)  
 
 
 ![GitHub metrics](https://metrics.lecoq.io/UdtaPakshi)  
