@@ -1,18 +1,18 @@
-![I am Akshi!](https://github.com/UdtaPakshi/UdtaPakshi/blob/main/github-header-image1.png)
-
 ### < Hello World! >
 #### I am Akshi!
 
 I am an Instrumentation sophomore, and I actively explore and learn about ML and Data Science. With a background in Arduino-based automation, I enjoy applying my skills to create innovative solutions. Additionally, as an astrophile, I am fascinated by the cosmos. Constantly seeking new opportunities, I strive to delve deeper into the captivating realm of machine learning and data analysis.
 
 ### Skills!
-- 🐍 Python
-- 📅 MySQL
-- 🤖 Arduino Automation
-- 💻 C++
+- Languages {Python, MySQL, C++, C, R}
+- Tools used {Pycharm, VSCode, MySQL Workbench, Arduino IDE}
+- Frameworks and Libraries {Tensorflow, OpenCV, PyGame, Numpy, MatplotLib, Pandas, SciPy}
+- Version Control {Git}
+- IT Constructs {DBMS, DSA, OOPS, Computer Networks, Microcontrollers, Microprocessors}
+
 
 ## A bit about what I'm doing!
-- 🔭 I’m currently working on Heart Disease detection and Prediction model 
+- 🔭 I’m currently working on autonomous vehicles!
 - 📖 I’m currently learning Machine learning and Data Science! 
 - 🎵 Ask me about Kanye's entire discography :3 
 - ☄️ Pronouns: She/Her 
