@@ -1,5 +1,5 @@
 ### < Hello World! >
-#### I am Akshi!
+#### I am Akshi Dashottar
 
 I am an Instrumentation graduate from Thapar Institute of Engineering and Technology, and I actively explore and learn about ML and Data Science. With a background in vision based edge deployment, I enjoy applying my skills to create innovative solutions. Constantly seeking new opportunities, I strive to delve deeper into the captivating realm of machine learning and data analysis.
 
@@ -11,7 +11,7 @@ I am an Instrumentation graduate from Thapar Institute of Engineering and Techno
 - IT Constructs {DBMS, DSA, OOPS, Computer Networks, Microcontrollers, Microprocessors}
 
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 - Prompt Engineering for LLMs
 - Time Series Forecasting
 - Building End-to-End ML Pipelines 
